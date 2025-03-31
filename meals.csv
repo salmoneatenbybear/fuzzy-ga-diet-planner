@@ -1,0 +1,6 @@
+Meal_ID,Meal_Name,Calories,Protein_g,Carbohydrate_g,Fat_g,Fiber_g,Calcium_mg,Iron_mg,Potassium_mg,VitC_mg,VitA_ug,VitB12_ug,Magnesium_mg,Vegetarian,Contains_DAIRY,Contains_GLUTEN,Meal_Type,Cuisine
+1,Oatmeal with Banana & Almonds,320,10,40,12,8,150,2.1,330,6,90,0.0,50,Yes,Yes,No,Breakfast,Continental
+2,Grilled Chicken Salad,400,35,20,18,5,100,3.5,400,10,120,1.2,60,No,No,No,Lunch,Continental
+3,Veggie Stir Fry,350,12,60,10,8,120,2.0,500,15,45,0.0,40,Yes,No,No,Dinner,Asian
+4,Fruit & Nut Smoothie,250,8,30,5,6,100,1.0,400,5,90,0.0,35,Yes,Yes,No,Snack,Continental
+5,Quinoa Salad with Black Beans,450,15,55,12,10,80,3.0,450,8,35,0.0,55,Yes,No,Yes,Lunch,Mexican
