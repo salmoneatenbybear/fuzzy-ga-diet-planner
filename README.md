@@ -1,3 +1,5 @@
+Deploy Link : https://fuzzy-ga-diet-plannergit-6jovnxikh4wunpx6hdaktm.streamlit.app/
+
 DEMO VIDEO : 
 
 
